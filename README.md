@@ -14,7 +14,7 @@ It uses the following third-party libs:
 
 ## How to run
 
-Heres' how you can run it on localhost, but its recommended to deploy to heroku.
+You can run it on localhost, but its recommended to deploy to heroku as your webhooks need to be publicly available.
 
 ```
     git clone https://github.com/ongair/ongea.git
